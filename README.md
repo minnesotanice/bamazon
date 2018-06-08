@@ -1,6 +1,6 @@
 # bamazon
 
-## Screencastify Demo
+## Video Demo
 [https://minnesotanice.github.io/bamazon/bamazon.mov](https://minnesotanice.github.io/bamazon/bamazon.mov)
 
 
